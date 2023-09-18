@@ -13,3 +13,9 @@
 [Условие задачи](https://github.com/netology-code/jd-homeworks/blob/master/linux/task1/README.md)
 
 конфигурационный файл доступен по пути src/main/resources/nginx.conf
+
+Задача: Dockerfile
+
+[Условие задачи](https://github.com/netology-code/jd-homeworks/blob/master/docker/task1/README.md)
+
+файлы docker-compose.yml и Dockerfile находятся в корневом каталоге проекта
