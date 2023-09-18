@@ -9,4 +9,7 @@
 [Условие второй задачи](https://github.com/netology-code/jd-homeworks/tree/master/spring_boot_rest/task2)
 
 Задача: Прокси на NGINX
+
 [Условие задачи](https://github.com/netology-code/jd-homeworks/blob/master/linux/task1/README.md)
+
+конфигурационный файл доступен по пути src/main/resources/nginx.conf
