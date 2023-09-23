@@ -19,3 +19,7 @@
 [Условие задачи](https://github.com/netology-code/jd-homeworks/blob/master/docker/task1/README.md)
 
 файлы docker-compose.yml и Dockerfile находятся в корневом каталоге проекта
+
+Задача: Интеграционное тестирование
+
+[Условие задачи](https://github.com/netology-code/jd-homeworks/blob/master/containers/task1/README.md)
